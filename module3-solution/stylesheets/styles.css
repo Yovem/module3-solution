@@ -1,0 +1,44 @@
+
+body{
+	font-size: 16px;
+}
+
+/* Navbar*/
+#headernav{
+	background-color: #904A3F;
+
+}
+.navbar-default .navbar-brand {
+    color: #f3e7e7;
+    font-size: 1.5em;
+
+}
+.navbar-collapse{
+text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    background-color: grey;
+}
+#nav-list li a:hover{
+  color: black;
+}
+/*End of Navbar*/
+
+/* Main Content */
+
+.main-tile{
+	color: #904A3F;
+	font-weight: bold;
+	font-family: 'Lobster', cursive;
+	font-size:3em; 
+	margin-bottom: 25px;
+}
+#chic{
+	background-color:#6B5945;
+	color:white;
+}
+.menu-title{
+	font-family: 'Lobster', cursive;
+}
